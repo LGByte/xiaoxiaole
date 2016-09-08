@@ -21,7 +21,8 @@ typedef enum : NSUInteger {
     [super viewDidLoad];
     [self loadBGImage];
     [self loadUI];
-    [self loadCanMoveUI];
+    [self loadCanMoveUI]; //test
+    
 }
 
 - (void)loadBGImage{
